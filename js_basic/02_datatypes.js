@@ -4,7 +4,8 @@
 
  //Data Types
 
- //primitive data types::
+ //(1) : primitive data types::
+// this data types is call by value and store in stack memory and when use it, it gives us the copy of the orignal value, and it is immutable
 
  //Number  => 2 to the power of 53
  // bigint
@@ -15,9 +16,10 @@
  //symbols => used for uniqueness
 
 
-// non-primitive data types
- //Objects
+//(2) : non-primitive data types
+ //Objects, Arrays and classes etc
+// this data types is call by reference and store in heap memory and is mutable
 
- console.log(typeof undefined); //undefined
+//  console.log(typeof undefined); //undefined
 
- console.log(typeof null); //object
+//  console.log(typeof null); //object

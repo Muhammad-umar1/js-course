@@ -35,7 +35,7 @@
 // console.log("2" - "2"); // 0 number
 // console.log("2" - 2); // 0 number
 // console.log("2" - 2 + 4); // 4 number
-// console.log(5 - 2 + "4"); // 34 number
+console.log(5 - 2 + "4"); // 34 string
 
 
 
@@ -44,7 +44,6 @@
 
 
 // let num1, num2, num3;
-
 // num1 = num2 = num3 = 3 + 4;
 
 
@@ -52,7 +51,7 @@
 // let numPreInc = ++num;
 // let numPostInc = num++;
 
-// this two gives us the same value but there is difference check docum..
+// this two gives us the same value but there is difference check docum...
 
 // console.log(numPreInc);  // 201
 // console.log(numPostInc); //201 
